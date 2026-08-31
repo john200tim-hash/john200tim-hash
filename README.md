@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=24,28,32,36,0,100&height=220&section=header&text=John%20Tim&fontSize=70&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=full-stack%20dev%20%7C%20ai%20systems%20%7C%20local%20llms&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=24,28,32,36,0,100&height=220&section=header&text=John%20Tim&fontSize=60&fontColor=38BDF8&animation=twinkle&fontAlignY=35&desc=It's%20not%20a%20bug,%20it's%20an%20undocumented%20feature&descAlignY=62&descSize=18&descColor=8b949e" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing Effect with Developer Jokes -->
 <a href="https://github.com/john200tim-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Writing+Python+that+barely+passes+code+review...;Turning+caffeine+into+unhandled+exceptions...;Training+LLMs+nobody+asked+for+at+3+AM...;Turning+Code+into+an+underrated+stack+overflow+pool...;It's+not+a+bug%2C+it's+an+undocumented+feature...;Shipping+Flutter+apps+that+mostly+work...;Git+push+--force+and+pray...;Running+models+locally+because+why+not%3F;Fixing+bugs+by+adding+more+print()+statements...;My+code+works...+I+have+no+idea+why." alt="Typing SVG Jokes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Writing+Python+that+barely+passes+code+review...;Turning+caffeine+into+unhandled+exceptions...;Training+LLMs+nobody+asked+for+at+3+AM...;Turning+Code+into+an+underrated+stack+overflow+pool...;Shipping+Flutter+apps+that+mostly+work...;Git+push+--force+and+pray...;Running+models+locally+because+why+not%3F;Fixing+bugs+by+adding+more+print()+statements...;My+code+works...+I+have+no+idea+why." alt="Typing SVG Jokes" />
 </a>
 
 <br/><br/>
@@ -100,7 +100,6 @@
 
 <div align="center">
 
-<!-- Reliable Custom UI Table Dashboard -->
 <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; margin-top: 10px;">
   <tr>
     <td align="center" width="25%" style="padding: 15px; border-right: 1px solid #21262d;">
@@ -124,7 +123,6 @@
 
 <br/>
 
-<!-- Native Guaranteed Contribution Activity Chart -->
 <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px;">
   <tr>
     <td align="center" style="padding: 15px;">
