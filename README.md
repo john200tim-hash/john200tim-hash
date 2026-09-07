@@ -50,7 +50,7 @@ class JohnTim:
     deployment   = ["TypeScript", "Next.js", "SQL", "REST-APIs", "Git"]
     werkzeuge    = ["VS Code", "Linux Mint", "Ollama (lokale LLMs)"]
 
-    motto        = "Laeuft lokal. Laeuft offline. Laeuft meistens."
+    motto        = "Laeuft lokal. Laeuft offline. Laeuft Eventuell."
 ```
 
 ---
