@@ -1,56 +1,109 @@
+<!-- ████████████████████████  HEADER  ████████████████████████ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=240&section=header&text=John%20Tim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kein%20Bug%20%E2%80%93%20ein%20undokumentiertes%20Feature&descAlignY=60&descSize=17&descColor=94d3f5" width="100%" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999&color=4a90d9&center=true&vCenter=true&repeat=false&width=700&height=70&lines=John%20Timothy" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&height=36&lines=Python%20schreiben%2C%20das%20Code-Reviews%20kaum%20ueberlebt...;Koffein%20in%20unbehandelte%20Exceptions%20verwandeln...;LLMs%20um%203%20Uhr%20nachts%20trainieren...;Flutter%20deploy%20und%20beten...;Git%20push%20--force%20und%20hoffen...;Modelle%20lokal%20ausfuehren%2C%20weil%20warum%20nicht%3F;Bugs%20mit%20print()%20statements%20finden...;Mein%20Code%20funktioniert...%20ich%20weiss%20nicht%20warum." alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=99999&color=94d3f5&center=true&vCenter=true&repeat=false&width=700&height=28&lines=Python%20%26%20Flutter%20Developer%20%C2%B7%20Nairobi%2C%20Kenya" alt="Title" />
+
+<br/>
+
+<!-- animated subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1600&color=4a90d9&center=true&vCenter=true&width=600&height=32&lines=Python%20%26%20Flutter%20Developer;Mobile%20Apps%20mit%20Flutter%20%2B%20Dart;Backend-Logik%20%26%20Automatisierung%20mit%20Python;Lokale%20KI-Tools%20%7C%20Offline-First;git%20push%20--force%20...%20und%20dann%20beten;Laeuft%20lokal.%20Laeuft%20offline.%20Laeuft%20meistens." alt="Typing" />
 
 <br/><br/>
 
-<a href="https://github.com/john200tim-hash"><img src="https://img.shields.io/badge/GitHub-Profil-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=161b22" /></a>
+<!-- ── contacts ── -->
+<a href="mailto:tim100john@gmail.com">
+  <img src="https://img.shields.io/badge/tim100john%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
 &nbsp;
-<a href="mailto:john200tim@gmail.com"><img src="https://img.shields.io/badge/E--Mail-Kontakt-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" /></a>
-&nbsp;
-<a href="https://github.com/john200tim-hash?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Alle%20anzeigen-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=3FB950&labelColor=161b22" /></a>
+<a href="https://github.com/john200tim-hash">
+  <img src="https://img.shields.io/badge/john200tim--hash-0f3460?style=flat-square&logo=github&logoColor=4a90d9&labelColor=1a1a2e" />
+</a>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
-
-### 🧠 Über mich
-
-</div>
+<!-- ████████████████████████  ÜBER MICH  ████████████████████████ -->
 
 ```python
+# john_tim.py ── Wer bin ich?
+
 class JohnTim:
-    sprachen    = ["Python", "TypeScript", "Dart", "JavaScript"]
-    frameworks  = ["Next.js", "React", "Flutter", "Tailwind CSS"]
-    hardware    = ["Arduino", "Raspberry Pi", "Linux"]
-    schwerpunkt = "Lokale LLMs · Low-Resource NLP · Hardware-Automatisierung"
-    motto       = "Laeuft lokal. Laeuft offline. Laeuft meistens."
+
+    # ── Womit ich wirklich arbeite ─────────────────────────────
+    kern         = "Python & Flutter"       # Das ist mein Zuhause.
+
+    python_fuer  = ["Automatisierung", "KI-Experimente", "Backend-Logik"]
+    flutter_fuer = ["Mobile Apps", "Cross-Platform Apps", "schnelle Prototypen"]
+
+    # ── Was ich brauche, um Ideen live zu bringen ──────────────
+    #   TypeScript / Next.js  →  Landing Pages & Web-Frontends
+    #   SQL + REST-APIs        →  Daten speichern & verbinden
+    #   Git                    →  weil ohne Versionskontrolle nichts läuft
+    deployment   = ["TypeScript", "Next.js", "SQL", "REST-APIs", "Git"]
+    werkzeuge    = ["VS Code", "Linux Mint", "Ollama (lokale LLMs)"]
+
+    motto        = "Laeuft lokal. Laeuft offline. Laeuft meistens."
 ```
 
 ---
 
+<!-- ████████████████████████  TECH STACK  ████████████████████████ -->
 <div align="center">
 
-### 🚀 Tech-Stack
+### Technische Kenntnisse
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,ts,dart,js,nextjs,react,tailwind,flutter&perline=8" alt="Languages & Frameworks" />
+<!-- row 1: core -->
+<img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20ICH%20LIEBE-Python%20%26%20Flutter-4a90d9?style=for-the-badge&labelColor=0f3460" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,dart,flutter&perline=3" />
+
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,git,arduino,raspberrypi,vscode,godot,github,docker&perline=8" alt="Tools" />
+<sub><b>Python</b> für Automatisierung, KI & Backend &nbsp;·&nbsp; <b>Flutter / Dart</b> für Mobile & Cross-Platform Apps</sub>
+
+<br/><br/>
+
+<!-- row 2: supporting -->
+<img src="https://img.shields.io/badge/Unterst%C3%BCtzend-16213e?style=for-the-badge&labelColor=1a1a2e" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,git&perline=6" />
+
+<br/>
+<sub>TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Git</sub>
+
+<br/><br/>
+
+<!-- row 3: env & tools -->
+<img src="https://img.shields.io/badge/Umgebung%20%26%20Tools-1a1a2e?style=for-the-badge&labelColor=0f3460" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,arduino,raspberrypi&perline=4" />
+
+<br/>
+<sub>Linux Mint &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Arduino &nbsp;·&nbsp; Raspberry Pi &nbsp;·&nbsp; Ollama</sub>
+
 
 </div>
 
+<br/>
+
 ---
 
+<!-- ████████████████████████  PROJEKTE  ████████████████████████ -->
 <div align="center">
 
 ### ⚡ Ausgewählte Projekte
@@ -60,79 +113,125 @@ class JohnTim:
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center" style="padding:16px; border:1px solid #30363d; border-radius:8px; background:#0d1117;">
-      <br/>
-      <img src="https://img.shields.io/badge/🤖_KipsigisLLM-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-aktiv-238636?style=flat-square" />
-      <img src="https://img.shields.io/badge/Lizenz-MIT-38BDF8?style=flat-square" />
-      <br/><br/>
-      <p align="left">Sprachmodell für Kipsigis — Datensatz-Aufbereitung, Tokenizer-Training, Gewichtskonfiguration. Low-Resource NLP auf die harte Tour.</p>
-      <a href="https://github.com/john200tim-hash/KipsigisLLM"><img src="https://img.shields.io/badge/→%20Zum%20Repo-161b22?style=flat-square&logo=github&logoColor=38BDF8" /></a>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top" align="center" style="padding:16px; border:1px solid #30363d; border-radius:8px; background:#0d1117;">
-      <br/>
-      <img src="https://img.shields.io/badge/📂_OllamaOrganizer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-aktiv-238636?style=flat-square" />
-      <img src="https://img.shields.io/badge/LLM-Ollama-BC8CFF?style=flat-square" />
-      <br/><br/>
-      <p align="left">Desktop-Organisation via lokaler LLMs. Dein Dateisystem — jetzt mit einem Gehirn, das offline funktioniert.</p>
-      <a href="https://github.com/john200tim-hash/OllamaOrganizer"><img src="https://img.shields.io/badge/→%20Zum%20Repo-161b22?style=flat-square&logo=github&logoColor=38BDF8" /></a>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center" style="padding:16px; border:1px solid #30363d; border-radius:8px; background:#0d1117;">
-      <br/>
-      <img src="https://img.shields.io/badge/🔌_Piduino-Python%20%2B%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0d1117" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hardware-RPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
-      <br/><br/>
-      <p align="left">Python-Automatisierung zwischen Arduino und Raspberry Pi. Roboter, Sensoren und serielle Schnittstellen — endlich kooperativ.</p>
-      <a href="https://github.com/john200tim-hash/Piduino"><img src="https://img.shields.io/badge/→%20Zum%20Repo-161b22?style=flat-square&logo=github&logoColor=38BDF8" /></a>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top" align="center" style="padding:16px; border:1px solid #30363d; border-radius:8px; background:#0d1117;">
-      <br/>
-      <img src="https://img.shields.io/badge/🏥_clinic--monorepo-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Architektur-Monorepo-FF7B72?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <br/><br/>
-      <p align="left">Klinik-Management-Website mit Monorepo-Architektur und sauberem TypeScript-Design.</p>
-      <a href="https://github.com/john200tim-hash/clinic-monorepo"><img src="https://img.shields.io/badge/→%20Zum%20Repo-161b22?style=flat-square&logo=github&logoColor=38BDF8" /></a>
-      <br/><br/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/SCHWERPUNKT-Python%20%2B%20KI-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f3460" />
+
+<br/><br/>
+
+**🤖 KipsigisLLM**
+
+Sprachmodell für Kipsigis — Datensatz-Aufbereitung, Tokenizer-Training, Gewichtskonfiguration. Low-Resource NLP auf die harte Tour.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-Low--Resource-4a90d9?style=flat-square" />
+<img src="https://img.shields.io/badge/MIT-238636?style=flat-square" />
+
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/KipsigisLLM)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/SCHWERPUNKT-Python%20%2B%20Ollama-BC8CFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0f3460" />
+
+<br/><br/>
+
+**📂 OllamaOrganizer**
+
+Desktop-Organisation via lokaler LLMs. Dein Dateisystem — jetzt mit einem Gehirn, das vollständig offline funktioniert.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-BC8CFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Offline--First-238636?style=flat-square" />
+
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/OllamaOrganizer)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/SCHWERPUNKT-Flutter%20%2B%20Next.js-3178C6?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f3460" />
+
+<br/><br/>
+
+**🌐 WeLern (Lernplattform)**
+
+Interaktiver Prototyp einer Lernanwendung mit Flutter & Next.js. Demo: [welearn-neon.vercel.app](https://welearn-neon.vercel.app)
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prototyp-FF7B72?style=flat-square" />
+
+[![→ Demo](https://img.shields.io/badge/→%20Live%20Demo-1a1a2e?style=flat-square&logo=vercel&logoColor=4a90d9)](https://welearn-neon.vercel.app)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/SCHWERPUNKT-TypeScript%20%2B%20REST-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f3460" />
+
+<br/><br/>
+
+**🏥 clinic-monorepo**
+
+Klinik-Management-App mit Monorepo-Architektur. Erste praktische Erfahrung mit REST-APIs & Datenbankstrukturen.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/REST--API-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/Monorepo-4a90d9?style=flat-square" />
+
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/clinic-monorepo)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/SCHWERPUNKT-Flutter%20%2B%20Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0f3460" />
+
+<br/><br/>
+
+**🔌 Piduino**
+
+Flutter-Lernplattform für Mikrocontroller-Grundlagen. Verbindet Arduino & Raspberry Pi mit KI-gestützten Erklärungen.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/RPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
+
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/Piduino)
+
+</td>
+</tr>
 </table>
-
----
-
-<div align="center">
-
-### 📊 Aktivität & Kennzahlen
 
 <br/>
 
-<!-- Streak — demolab, most reliable -->
-<img src="https://streak-stats.demolab.com?user=john200tim-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=FF7B72&currStreakLabel=38BDF8&sideLabels=8b949e&dates=8b949e&stroke=30363d&locale=de" width="65%" alt="GitHub Streak" />
+---
+
+<!-- ████████████████████████  AKTIVITÄT  ████████████████████████ -->
+<div align="center">
+
+### 📊 Aktivität
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=john200tim-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4a90d9&fire=FF7B72&currStreakLabel=4a90d9&sideLabels=8b949e&dates=8b949e&stroke=16213e&locale=de" width="60%" alt="Streak" />
 
 <br/><br/>
 
-<!-- Contribution calendar — ghchart.rshah.org is GitHub-proxied, very reliable -->
-<img src="https://ghchart.rshah.org/38BDF8/john200tim-hash" width="92%" alt="Beitragskalender" />
+<img src="https://ghchart.rshah.org/4a90d9/john200tim-hash" width="90%" alt="Beitragskalender" />
 
 <br/><br/>
 
-<!-- Shields badges as "trophies" — 100% reliable, no external image service -->
-<img src="https://img.shields.io/badge/🔥_Streak-10%20Tage-FF7B72?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📦_Commits-1.222%2B-38BDF8?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📁_Repos-5%2B-3FB950?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🧠_Fokus-Lokale%20KI-BC8CFF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔥%20Aktuelle%20Serie-10%20Tage-FF7B72?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/📦%20Commits-1.222%2B-4a90d9?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/📁%20Repos-5%2B-238636?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
@@ -140,12 +239,22 @@ class JohnTim:
 
 ---
 
+<!-- ████████████████████████  SNAKE  ████████████████████████ -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
+
+---
+
+<!-- ████████████████████████  FOOTER  ████████████████████████ -->
 <div align="center">
 <sub>
-  <b>John Tim</b> · Nairobi 🇰🇪 · Python · TypeScript · Flutter · Lokale KI
+John Timothy Kipngenoh &nbsp;·&nbsp; Sotik, Kenia 🇰🇪 &nbsp;·&nbsp; <a href="mailto:tim100john@gmail.com">tim100john@gmail.com</a>
 </sub>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=130&section=footer&text=Laeuft+lokal.+Laeuft+offline.+Laeuft+meistens.&fontSize=15&fontColor=94d3f5&fontAlignY=68" width="100%" />
+<div align="center">
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&pause=99999&color=4a90d9&center=true&vCenter=true&repeat=false&width=600&height=28&lines=Laeuft%20lokal.%20Laeuft%20offline.%20Laeuft%20meistens." alt="Footer motto" />
+<br/><br/>
+</div>
