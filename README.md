@@ -46,11 +46,10 @@ class JohnTim:
     flutter_fuer = ["Mobile Apps", "Cross-Platform Apps", "schnelle Prototypen"]
 
     # ── Was ich brauche, um Ideen live zu bringen ──────────────
-    #   TypeScript / Next.js  →  Landing Pages & Web-Frontends
-    #   SQL + REST-APIs        →  Daten speichern & verbinden
-    #   Git                    →  weil ohne Versionskontrolle nichts läuft
-    deployment   = ["TypeScript", "Next.js", "SQL", "REST-APIs", "Git"]
-    werkzeuge    = ["VS Code", "Linux Mint", "Ollama (lokale LLMs)"]
+    #   JavaScript / Next.js  →  Web-Frontends
+    #   Git                   →  weil ohne Versionskontrolle nichts läuft
+    deployment   = ["JavaScript", "Next.js", "Git"]
+    werkzeuge    = ["VS Code", "Linux Mint"]
 
     motto        = "Laeuft lokal. Laeuft offline. Laeuft Eventuell."
 ```
@@ -84,10 +83,10 @@ class JohnTim:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,nextjs&perline=2" />
 
 <br/>
-<sub>TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Git</sub>
+<sub>JavaScript &nbsp;·&nbsp; Next.js</sub>
 
 <br/><br/>
 
@@ -97,10 +96,10 @@ class JohnTim:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=linux,vscode,arduino,raspberrypi&perline=4" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,git&perline=3" />
 
 <br/>
-<sub>Linux Mint &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Arduino &nbsp;·&nbsp; Raspberry Pi &nbsp;·&nbsp; Ollama</sub>
+<sub>Linux Mint &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Git</sub>
 
 </div>
 
