@@ -1,4 +1,5 @@
 <!-- ████████████████████████  HEADER  ████████████████████████ -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999&color=4a90d9&center=true&vCenter=true&repeat=false&width=700&height=70&lines=John%20Timothy" alt="Name" />
@@ -10,11 +11,13 @@
 <br/>
 
 <!-- animated subtitle -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1600&color=4a90d9&center=true&vCenter=true&width=600&height=32&lines=Python%20%26%20Flutter%20Developer;Mobile%20Apps%20mit%20Flutter%20%2B%20Dart;Backend-Logik%20%26%20Automatisierung%20mit%20Python;Lokale%20KI-Tools%20%7C%20Offline-First;git%20push%20--force%20...%20und%20dann%20beten;Laeuft%20lokal.%20Laeuft%20offline.%20Laeuft%20meistens." alt="Typing" />
 
 <br/><br/>
 
 <!-- ── contacts ── -->
+
 <a href="mailto:tim100john@gmail.com">
   <img src="https://img.shields.io/badge/tim100john%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
@@ -22,7 +25,6 @@
 <a href="https://github.com/john200tim-hash">
   <img src="https://img.shields.io/badge/john200tim--hash-0f3460?style=flat-square&logo=github&logoColor=4a90d9&labelColor=1a1a2e" />
 </a>
-
 
 </div>
 
@@ -56,6 +58,7 @@ class JohnTim:
 ---
 
 <!-- ████████████████████████  TECH STACK  ████████████████████████ -->
+
 <div align="center">
 
 ### Technische Kenntnisse
@@ -63,6 +66,7 @@ class JohnTim:
 <br/>
 
 <!-- row 1: core -->
+
 <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20ICH%20LIEBE-Python%20%26%20Flutter-4a90d9?style=for-the-badge&labelColor=0f3460" />
 
 <br/><br/>
@@ -75,6 +79,7 @@ class JohnTim:
 <br/><br/>
 
 <!-- row 2: supporting -->
+
 <img src="https://img.shields.io/badge/Unterst%C3%BCtzend-16213e?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
@@ -87,6 +92,7 @@ class JohnTim:
 <br/><br/>
 
 <!-- row 3: env & tools -->
+
 <img src="https://img.shields.io/badge/Umgebung%20%26%20Tools-1a1a2e?style=for-the-badge&labelColor=0f3460" />
 
 <br/><br/>
@@ -96,7 +102,6 @@ class JohnTim:
 <br/>
 <sub>Linux Mint &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Arduino &nbsp;·&nbsp; Raspberry Pi &nbsp;·&nbsp; Ollama</sub>
 
-
 </div>
 
 <br/>
@@ -104,6 +109,7 @@ class JohnTim:
 ---
 
 <!-- ████████████████████████  PROJEKTE  ████████████████████████ -->
+
 <div align="center">
 
 ### ⚡ Ausgewählte Projekte
@@ -128,7 +134,7 @@ Sprachmodell für Kipsigis — Datensatz-Aufbereitung, Tokenizer-Training, Gewic
 <img src="https://img.shields.io/badge/NLP-Low--Resource-4a90d9?style=flat-square" />
 <img src="https://img.shields.io/badge/MIT-238636?style=flat-square" />
 
-[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/KipsigisLLM)
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square\&logo=github\&logoColor=4a90d9)](https://github.com/john200tim-hash/KipsigisLLM)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -145,7 +151,7 @@ Desktop-Organisation via lokaler LLMs. Dein Dateisystem — jetzt mit einem Gehi
 <img src="https://img.shields.io/badge/Ollama-BC8CFF?style=flat-square" />
 <img src="https://img.shields.io/badge/Offline--First-238636?style=flat-square" />
 
-[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/OllamaOrganizer)
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square\&logo=github\&logoColor=4a90d9)](https://github.com/john200tim-hash/OllamaOrganizer)
 
 </td>
 </tr>
@@ -165,44 +171,7 @@ Interaktiver Prototyp einer Lernanwendung mit Flutter & Next.js. Demo: [welearn-
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Prototyp-FF7B72?style=flat-square" />
 
-[![→ Demo](https://img.shields.io/badge/→%20Live%20Demo-1a1a2e?style=flat-square&logo=vercel&logoColor=4a90d9)](https://welearn-neon.vercel.app)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/SCHWERPUNKT-TypeScript%20%2B%20REST-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f3460" />
-
-<br/><br/>
-
-**🏥 clinic-monorepo**
-
-Klinik-Management-App mit Monorepo-Architektur. Erste praktische Erfahrung mit REST-APIs & Datenbankstrukturen.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/REST--API-238636?style=flat-square" />
-<img src="https://img.shields.io/badge/Monorepo-4a90d9?style=flat-square" />
-
-[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/clinic-monorepo)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/SCHWERPUNKT-Flutter%20%2B%20Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0f3460" />
-
-<br/><br/>
-
-**🔌 Piduino**
-
-Flutter-Lernplattform für Mikrocontroller-Grundlagen. Verbindet Arduino & Raspberry Pi mit KI-gestützten Erklärungen.
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/RPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
-
-[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square&logo=github&logoColor=4a90d9)](https://github.com/john200tim-hash/Piduino)
+[![→ Demo](https://img.shields.io/badge/→%20Live%20Demo-1a1a2e?style=flat-square\&logo=vercel\&logoColor=4a90d9)](https://welearn-neon.vercel.app)
 
 </td>
 </tr>
@@ -213,6 +182,7 @@ Flutter-Lernplattform für Mikrocontroller-Grundlagen. Verbindet Arduino & Raspb
 ---
 
 <!-- ████████████████████████  AKTIVITÄT  ████████████████████████ -->
+
 <div align="center">
 
 ### 📊 Aktivität
@@ -240,11 +210,13 @@ Flutter-Lernplattform für Mikrocontroller-Grundlagen. Verbindet Arduino & Raspb
 ---
 
 <!-- ████████████████████████  SNAKE  ████████████████████████ -->
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
 
 ---
 
 <!-- ████████████████████████  FOOTER  ████████████████████████ -->
+
 <div align="center">
 <sub>
 John Timothy Kipngenoh &nbsp;·&nbsp; Sotik, Kenia 🇰🇪 &nbsp;·&nbsp; <a href="mailto:tim100john@gmail.com">tim100john@gmail.com</a>
