@@ -173,6 +173,26 @@ Interaktiver Prototyp einer Lernanwendung mit Flutter & Next.js. Demo: [welearn-
 [![→ Demo](https://img.shields.io/badge/→%20Live%20Demo-1a1a2e?style=flat-square\&logo=vercel\&logoColor=4a90d9)](https://welearn-neon.vercel.app)
 
 </td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/SCHWERPUNKT-Python%20%2B%20Security-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f3460" />
+
+<br/><br/>
+
+**🛡️ Temux-Server**
+
+Leichtgewichtiges Edge-Security-Gateway für Android/Termux — mit Reverse-Proxy-WAF, Echtzeit-Web-Dashboard, SQLite-IP-Regeln und Remote-Verwaltung über ADB & SSH.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Starlette-0f3460?style=flat-square" />
+<img src="https://img.shields.io/badge/Uvicorn-4a90d9?style=flat-square" />
+<img src="https://img.shields.io/badge/Termux-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/WAF-Security-FF7B72?style=flat-square" />
+
+[![→ Repo](https://img.shields.io/badge/→%20Zum%20Repo-1a1a2e?style=flat-square\&logo=github\&logoColor=4a90d9)](https://github.com/john200tim-hash/Temux-Server)
+
+</td>
 </tr>
 </table>
 
